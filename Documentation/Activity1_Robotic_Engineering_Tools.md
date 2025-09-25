@@ -135,6 +135,14 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
+
+**Activity Student2:** Nora Bertot
+
+| ![](./Images/syncn.png) | ![](./Images/pickn.png) |
+|:----------------------------:|:--------------------------------------:|
+| *a) VScode*                 | *b) roboDK Pick cube*    
+
+
 ## Delivery Activity 1
 
 Once each student from the Laboratory subgroup has updated this github project from the Director github project, each student can upload the Activity 1 Delivery with:
